@@ -1,1 +1,3 @@
+com\taotaoke\portal\serviceimpl\ContentServiceImpl.class
 com\taotaoke\portal\controller\IndexController.class
+com\taotaoke\portal\service\ContentService.class
